@@ -2,7 +2,7 @@
 
 A Streamlit web app for handwritten digit recognition using a CNN model trained on MNIST dataset.
 
-![Image](hat_frontside_copy.jpg)
+![Image](image.png)
 
 ## Features
 - Interactive drawing canvas
